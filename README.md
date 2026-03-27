@@ -4,7 +4,7 @@ A premium recipe discovery web application powered by TheMealDB API. Find, save,
 
 ## Live Demo
 
-[View live](https://your-zesti-url.vercel.app)
+[View live](https://zesti-pro.vercel.app/)
 
 ## Screenshot
 
@@ -154,7 +154,7 @@ The `LoadingGrid` skeleton cards match the exact dimensions of `RecipeCard` (220
 ### Installation
 
 ```bash
-git clone https://github.com/MRxhaqq/zesti.git
+git clone https://github.com/MRxhaqq/Zesti.git
 cd zesti
 npm install
 ```
